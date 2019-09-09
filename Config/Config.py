@@ -1,0 +1,6 @@
+Revit2019InstallPath=r'\\network\rvt\Setup.exe'
+Revit2019InstallArgs=r'/t /qb /w /language en-us /c RVT: INSTALLDIR="%programFiles%\Autodesk" CP_PREFERENCE=RVT-en-US-i CP_SELECTED="RVT-en-US-i;RVT-en-US-m;RVT-en-AU-m;RVT-en-GB-m;RVT-en-NZ-m" ACADSERIALPREFIX=399 ACADSERIALNUMBER=99999999 ADLM_PRODKEY=829K1 ADLM_EULA_COUNTRY=US InstallLevel=5 ACADSTANDALONENETWORKTYPE="3" ACAD_LICENSESERVER_DISTRIBUTED="1" ACADLICENSESERVERTYPE="Distributed Server License" ACADLICENSETYPE="Network License" ACADSERVERPATH="@license-server"'
+RevitDevSandboxSource=r'\\network\2021'
+RevitDevSandboxMask=r'Sandbox*.zip'
+RevitDevSandboxDestination=r'C:\Sandbox'
+RevitDevSandboxFolderName=r'LatestRevitSandbox'
